@@ -1,0 +1,51 @@
+.main{
+
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+padding-bottom: 200px;
+    height: 30vh;
+
+}
+h1{
+    color: black;
+    font-family: sans-serif;
+padding-left: 20px;
+}
+h3{
+    padding-left: 30px;
+    color: palevioletred;
+font-size: 22px;
+}
+h4{
+    font-size: smaller;
+    font-weight: 50px;
+    padding-left: 20px;
+}
+h2{
+    color:brown;
+    font-size: 26px;
+    padding-left: 20px;
+}
+h5{
+    font-size: 30px;
+    color: brown;
+    padding-left: 20px;
+}
+vertical-line{
+    border-left: 2px;
+    height: 100px;
+}
+
+hr{
+    border: none;
+    height: 0.5px;
+    width: 100%;
+    background-color: black;
+}
+.tabl th{
+    text-align: left;
+}
+.tabl td{
+    text-align: right;
+}
